@@ -8,6 +8,8 @@ function User() {
       <p>123</p>
       <p>123</p>
       <img src="" alt="" />
+      <p>commit 01</p>
+      <p>commit 02</p>
     </div>
   );
 }
