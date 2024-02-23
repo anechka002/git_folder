@@ -10,6 +10,7 @@ function Post() {
       <p>text</p>
       <p>text</p>
       <p>text</p>
+      <div>image</div>
     </div>
     
   )
