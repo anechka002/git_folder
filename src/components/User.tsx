@@ -5,6 +5,8 @@ function User() {
     <div>
       <div>User</div>
       <p>text</p>
+      <p>123</p>
+      <p>123</p>
     </div>
   );
 }
