@@ -7,6 +7,7 @@ function User() {
       <p>text</p>
       <p>123</p>
       <p>123</p>
+      <img src="" alt="" />
     </div>
   );
 }
