@@ -11,6 +11,9 @@ function User() {
       <p>commit 01</p>
       <p>commit 02</p>
       <div>commit 03</div>
+      <p>text</p>
+      <p>text</p>
+      <p>text</p>
     </div>
   );
 }
