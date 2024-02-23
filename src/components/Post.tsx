@@ -6,7 +6,10 @@ function Post() {
       <div>Post</div>
       <p>text</p>
       <img src="" alt="" />
-      <div>commit 03</div>
+      <p>text</p>
+      <p>text</p>
+      <p>text</p>
+      <p>text</p>
     </div>
     
   )
